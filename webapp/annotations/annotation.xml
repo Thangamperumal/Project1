@@ -94,6 +94,7 @@
                     <Collection>
                         <PropertyPath>TravelId</PropertyPath>
                         <PropertyPath>CustomerId</PropertyPath>
+                        <PropertyPath>AgencyId</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
